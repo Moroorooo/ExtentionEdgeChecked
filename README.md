@@ -4,7 +4,7 @@
 2. turn on Developer mode
 3. click load unpack
 4. select extension folder
-5. go to exam page in coursera
+5. go to exam page 
 6. click on extension icon and wait a few moments
 # Bugs
 1.usually has problems in true and false questions
